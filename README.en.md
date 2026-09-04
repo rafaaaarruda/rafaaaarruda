@@ -1,3 +1,5 @@
+[🇧🇷 Português](README.md) | 🇺🇸 English
+
 # Hi, I'm Rafaela 👋
 
 I'm a **Computer Science undergraduate** and a participant in the **Apple Developer Academy @ Instituto Eldorado**, currently focused on software development with Swift and SwiftUI.
